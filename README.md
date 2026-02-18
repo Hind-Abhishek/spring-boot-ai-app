@@ -57,7 +57,8 @@ ai/
 ## 🚀 Getting Started
 
 Step 1: Clone or Download the Project
-git clone https://github.com/Hind-Abhishek/spring-boot-ai.git
+git clone https://github.com/Hind-Abhishek/spring-boot-ai-app.git
+
 cd ai
 
 Step 2: Build the Project
@@ -76,10 +77,10 @@ How to Use
 1. Open the Application: Navigate to http://localhost:8282/api in your web browser
 
 2. Enter a Question: Type your question in the textarea
-Example: "What is Spring?"
-Example: "What is Java?"
+   Example: "What is Spring?"
+   Example: "What is Java?"
 
-3.Click "Ask AI": Submit the form
+3. Click "Ask AI": Submit the form
 
 4. View the Answer: The AI response will be displayed below the form
 
