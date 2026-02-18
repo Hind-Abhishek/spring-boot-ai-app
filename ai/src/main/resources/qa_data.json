@@ -1,0 +1,416 @@
+{
+  "qaData": [
+    {
+      "question": "What is Spring Framework?",
+      "answer": "Spring is a powerful Java framework that provides comprehensive infrastructure support for developing Java applications with inversion of control and dependency injection."
+    },
+    {
+      "question": "What is Spring Boot?",
+      "answer": "Spring Boot is an extension of Spring Framework that makes it easier to create stand-alone, production-grade Spring applications with minimal configuration."
+    },
+    {
+      "question": "What is Java?",
+      "answer": "Java is a versatile, object-oriented programming language known for its platform independence through the 'write once, run anywhere' principle."
+    },
+    {
+      "question": "What is Artificial Intelligence?",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines. It encompasses machine learning, natural language processing, and computer vision."
+    },
+    {
+      "question": "What is Machine Learning?",
+      "answer": "Machine Learning is a subset of AI that enables computers to learn and improve from experience without being explicitly programmed."
+    },
+    {
+      "question": "What is REST API?",
+      "answer": "REST API is an architectural style for designing networked applications that use HTTP requests to perform CRUD operations on resources."
+    },
+    {
+      "question": "What is JSON?",
+      "answer": "JSON (JavaScript Object Notation) is a lightweight, text-based data interchange format that is easy for humans to read and for machines to parse."
+    },
+    {
+      "question": "What is SQL?",
+      "answer": "SQL is a standardized language used for managing and querying relational databases to retrieve, insert, update, and delete data."
+    },
+    {
+      "question": "What is NoSQL?",
+      "answer": "NoSQL databases are non-relational databases designed for distributed data storage and are schema-less, allowing flexible data structures."
+    },
+    {
+      "question": "What is Cloud Computing?",
+      "answer": "Cloud Computing is the delivery of computing services including servers, storage, and applications over the internet on a pay-as-you-go basis."
+    },
+    {
+      "question": "What is Docker?",
+      "answer": "Docker is a containerization platform that packages applications and their dependencies into isolated containers for consistent deployment across environments."
+    },
+    {
+      "question": "What is Kubernetes?",
+      "answer": "Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications."
+    },
+    {
+      "question": "What is Git?",
+      "answer": "Git is a distributed version control system that tracks changes in source code during software development and enables collaboration among developers."
+    },
+    {
+      "question": "What is HTTP?",
+      "answer": "HTTP (HyperText Transfer Protocol) is the protocol used for transferring data across the web between clients and servers."
+    },
+    {
+      "question": "What is HTTPS?",
+      "answer": "HTTPS is the secure version of HTTP that encrypts data using SSL/TLS protocols to ensure secure communication between clients and servers."
+    },
+    {
+      "question": "What is MVC?",
+      "answer": "MVC (Model-View-Controller) is an architectural pattern that separates an application into three components: data models, user interface, and control logic."
+    },
+    {
+      "question": "What is Microservices?",
+      "answer": "Microservices is an architectural approach where applications are built as a suite of small, independent services that communicate via APIs."
+    },
+    {
+      "question": "What is API?",
+      "answer": "An API (Application Programming Interface) is a set of protocols and tools that enables different software applications to communicate and interact with each other."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript is a lightweight, interpreted programming language primarily used for adding interactivity and dynamic behavior to web pages."
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level, interpreted programming language known for its simple syntax, readability, and wide applications in data science and automation."
+    },
+    {
+      "question": "What is C++?",
+      "answer": "C++ is a general-purpose programming language that combines low-level memory manipulation with high-level object-oriented features."
+    },
+    {
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces with reusable components and efficient rendering using a virtual DOM."
+    },
+    {
+      "question": "What is Angular?",
+      "answer": "Angular is a comprehensive JavaScript framework for building dynamic single-page applications with TypeScript and dependency injection."
+    },
+    {
+      "question": "What is Node.js?",
+      "answer": "Node.js is a JavaScript runtime built on Chrome's V8 engine that allows developers to run JavaScript on the server-side."
+    },
+    {
+      "question": "What is MySQL?",
+      "answer": "MySQL is an open-source relational database management system that uses SQL for data storage and retrieval."
+    },
+    {
+      "question": "What is MongoDB?",
+      "answer": "MongoDB is a NoSQL document-oriented database that stores data in JSON-like documents with flexible schemas."
+    },
+    {
+      "question": "What is Hibernate?",
+      "answer": "Hibernate is an Object-Relational Mapping (ORM) framework for Java that simplifies database operations by mapping Java objects to database tables."
+    },
+    {
+      "question": "What is JPA?",
+      "answer": "JPA (Java Persistence API) is a Java specification that provides a standard interface for Object-Relational Mapping in Java applications."
+    },
+    {
+      "question": "What is Maven?",
+      "answer": "Maven is a build automation tool for Java projects that manages dependencies, compiles code, and builds executable packages."
+    },
+    {
+      "question": "What is Gradle?",
+      "answer": "Gradle is a flexible, open-source build automation tool that uses a domain-specific language for defining build configurations."
+    },
+    {
+      "question": "What is OAuth?",
+      "answer": "OAuth is an open standard authorization protocol that enables secure third-party application access to user accounts without sharing passwords."
+    },
+    {
+      "question": "What is JWT?",
+      "answer": "JWT (JSON Web Token) is a compact, self-contained token format for securely transmitting information between parties in web applications."
+    },
+    {
+      "question": "What is Encryption?",
+      "answer": "Encryption is the process of converting readable data into an encoded format using algorithms to protect sensitive information from unauthorized access."
+    },
+    {
+      "question": "What is Hashing?",
+      "answer": "Hashing is a cryptographic process that converts input data into a fixed-length string of characters, primarily used for data integrity verification."
+    },
+    {
+      "question": "What is Agile Methodology?",
+      "answer": "Agile is an iterative software development methodology that emphasizes flexibility, customer collaboration, and continuous improvement through sprints."
+    },
+    {
+      "question": "What is DevOps?",
+      "answer": "DevOps is a set of practices that combines software development and IT operations to shorten development cycles and improve deployment frequency."
+    },
+    {
+      "question": "What is CI/CD?",
+      "answer": "CI/CD (Continuous Integration/Continuous Deployment) is a practice of automating code integration, testing, and deployment to production."
+    },
+    {
+      "question": "What is Unit Testing?",
+      "answer": "Unit Testing is a software testing method where individual components or functions are tested in isolation to verify their correctness."
+    },
+    {
+      "question": "What is Integration Testing?",
+      "answer": "Integration Testing is a testing method that verifies the interaction and compatibility between different components or modules of a system."
+    },
+    {
+      "question": "What is JUnit?",
+      "answer": "JUnit is a popular Java testing framework that provides annotations and assertions for writing and running unit tests."
+    },
+    {
+      "question": "What is Mockito?",
+      "answer": "Mockito is a Java mocking framework that allows developers to create mock objects for unit testing and verify interactions between objects."
+    },
+    {
+      "question": "What is Selenium?",
+      "answer": "Selenium is a browser automation tool used for automating web application testing across different browsers and platforms."
+    },
+    {
+      "question": "What is Design Patterns?",
+      "answer": "Design Patterns are reusable solutions to common programming problems that provide templates for writing maintainable and scalable code."
+    },
+    {
+      "question": "What is Singleton Pattern?",
+      "answer": "Singleton Pattern is a creational design pattern that restricts the instantiation of a class to a single object."
+    },
+    {
+      "question": "What is Factory Pattern?",
+      "answer": "Factory Pattern is a creational design pattern that provides a way to create objects without specifying their exact classes."
+    },
+    {
+      "question": "What is Observer Pattern?",
+      "answer": "Observer Pattern is a behavioral design pattern that defines a one-to-many relationship where changes in one object are automatically reflected in dependent objects."
+    },
+    {
+      "question": "What is SOLID Principles?",
+      "answer": "SOLID is a set of five design principles (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) for writing maintainable code."
+    },
+    {
+      "question": "What is DRY Principle?",
+      "answer": "DRY (Don't Repeat Yourself) is a principle that encourages writing reusable code to avoid duplication and improve maintainability."
+    },
+    {
+      "question": "What is KISS Principle?",
+      "answer": "KISS (Keep It Simple, Stupid) is a principle that advocates for keeping code simple and avoiding unnecessary complexity."
+    },
+    {
+      "question": "What is Clean Code?",
+      "answer": "Clean Code is a philosophy of writing code that is readable, maintainable, and efficient by following best practices and conventions."
+    },
+    {
+      "question": "What is Code Review?",
+      "answer": "Code Review is a process where developers examine each other's code to identify bugs, improve quality, and share knowledge."
+    },
+    {
+      "question": "What is Refactoring?",
+      "answer": "Refactoring is the process of restructuring existing code without changing its functionality to improve readability and maintainability."
+    },
+    {
+      "question": "What is OOP?",
+      "answer": "OOP (Object-Oriented Programming) is a programming paradigm based on objects and classes, promoting modularity and reusability."
+    },
+    {
+      "question": "What is Inheritance?",
+      "answer": "Inheritance is an OOP concept that allows a class to inherit properties and methods from another class, promoting code reuse."
+    },
+    {
+      "question": "What is Polymorphism?",
+      "answer": "Polymorphism is an OOP concept that allows objects to take multiple forms, enabling flexibility in method implementation."
+    },
+    {
+      "question": "What is Encapsulation?",
+      "answer": "Encapsulation is an OOP principle that bundles data and methods together and hides internal details from the outside world."
+    },
+    {
+      "question": "What is Abstraction?",
+      "answer": "Abstraction is an OOP principle that hides complex implementation details and shows only essential features to the user."
+    },
+    {
+      "question": "What is Interface?",
+      "answer": "Interface is a contract that specifies a set of methods that implementing classes must provide."
+    },
+    {
+      "question": "What is Abstract Class?",
+      "answer": "Abstract Class is a class that cannot be instantiated and is used as a blueprint for derived classes."
+    },
+    {
+      "question": "What is Concurrency?",
+      "answer": "Concurrency is the ability of a program to execute multiple tasks simultaneously, improving performance and responsiveness."
+    },
+    {
+      "question": "What is Multithreading?",
+      "answer": "Multithreading is a programming technique that allows multiple threads to execute concurrently within a single process."
+    },
+    {
+      "question": "What is Thread?",
+      "answer": "Thread is the smallest unit of execution within a process, allowing concurrent execution of code."
+    },
+    {
+      "question": "What is Synchronization?",
+      "answer": "Synchronization is a mechanism to control access to shared resources in multithreading to prevent data corruption."
+    },
+    {
+      "question": "What is Deadlock?",
+      "answer": "Deadlock is a situation where two or more threads are blocked indefinitely waiting for each other to release resources."
+    },
+    {
+      "question": "What is Exception Handling?",
+      "answer": "Exception Handling is a mechanism to handle runtime errors gracefully by using try-catch-finally blocks."
+    },
+    {
+      "question": "What is Checked Exception?",
+      "answer": "Checked Exception is an exception that must be caught or declared in the method signature, checked at compile time."
+    },
+    {
+      "question": "What is Unchecked Exception?",
+      "answer": "Unchecked Exception is an exception that does not need to be caught or declared, checked at runtime."
+    },
+    {
+      "question": "What is Garbage Collection?",
+      "answer": "Garbage Collection is an automatic memory management feature in Java that removes unused objects from memory."
+    },
+    {
+      "question": "What is JVM?",
+      "answer": "JVM (Java Virtual Machine) is an abstract computing machine that enables a computer to run Java programs and programs written in other languages."
+    },
+    {
+      "question": "What is JRE?",
+      "answer": "JRE (Java Runtime Environment) is a software package that contains the JVM and libraries needed to run Java applications."
+    },
+    {
+      "question": "What is JDK?",
+      "answer": "JDK (Java Development Kit) is a software development kit that includes the JRE, compiler, and development tools for Java programming."
+    },
+    {
+      "question": "What is Annotation?",
+      "answer": "Annotation is a form of metadata that provides information about the program but is not part of the program itself."
+    },
+    {
+      "question": "What is Reflection?",
+      "answer": "Reflection is a feature in Java that allows examining and modifying the structure and behavior of classes at runtime."
+    },
+    {
+      "question": "What is Serialization?",
+      "answer": "Serialization is the process of converting an object into a byte stream, enabling storage or transmission over networks."
+    },
+    {
+      "question": "What is Deserialization?",
+      "answer": "Deserialization is the reverse process of serialization, converting a byte stream back into an object."
+    },
+    {
+      "question": "What is Collection Framework?",
+      "answer": "Collection Framework is a set of classes and interfaces in Java for storing and manipulating collections of objects."
+    },
+    {
+      "question": "What is List?",
+      "answer": "List is an ordered collection that allows duplicate elements and provides index-based access to elements."
+    },
+    {
+      "question": "What is Set?",
+      "answer": "Set is an unordered collection that does not allow duplicate elements."
+    },
+    {
+      "question": "What is Map?",
+      "answer": "Map is a collection that stores key-value pairs and does not allow duplicate keys."
+    },
+    {
+      "question": "What is ArrayList?",
+      "answer": "ArrayList is a resizable array implementation of the List interface that provides dynamic array functionality."
+    },
+    {
+      "question": "What is HashMap?",
+      "answer": "HashMap is a hash table-based implementation of the Map interface that stores key-value pairs with O(1) average access time."
+    },
+    {
+      "question": "What is LinkedList?",
+      "answer": "LinkedList is a doubly-linked list implementation that provides efficient insertion and deletion operations."
+    },
+    {
+      "question": "What is TreeMap?",
+      "answer": "TreeMap is a sorted map implementation that maintains keys in natural or custom order."
+    },
+    {
+      "question": "What is HashSet?",
+      "answer": "HashSet is a hash table-based set implementation that provides O(1) average-case performance for add, remove, and contains operations."
+    },
+    {
+      "question": "What is TreeSet?",
+      "answer": "TreeSet is a sorted set implementation that maintains elements in natural or custom order."
+    },
+    {
+      "question": "What is Stream API?",
+      "answer": "Stream API is a functional programming feature in Java that allows processing sequences of elements in a declarative manner."
+    },
+    {
+      "question": "What is Lambda Expression?",
+      "answer": "Lambda Expression is a concise way to represent an anonymous function in Java, introduced in Java 8."
+    },
+    {
+      "question": "What is Functional Interface?",
+      "answer": "Functional Interface is an interface with a single abstract method, enabling the use of lambda expressions."
+    },
+    {
+      "question": "What is Generics?",
+      "answer": "Generics is a feature in Java that allows type-safe operations on parameterized types at compile time."
+    },
+    {
+      "question": "What is Wild Card in Generics?",
+      "answer": "Wild Card is a feature in Generics that uses '?' to represent an unknown type, providing flexibility in type declarations."
+    },
+    {
+      "question": "What is Static Keyword?",
+      "answer": "Static Keyword is used to create class-level variables and methods that belong to the class rather than instances."
+    },
+    {
+      "question": "What is Final Keyword?",
+      "answer": "Final Keyword is used to create constants, prevent method overriding, and prevent class inheritance."
+    },
+    {
+      "question": "What is Modifier?",
+      "answer": "Modifiers are keywords that specify the properties of classes, methods, and variables (public, private, protected, static, final)."
+    },
+    {
+      "question": "What is Dependency Injection?",
+      "answer": "Dependency Injection is a design pattern where dependencies are provided to an object rather than created by the object itself."
+    },
+    {
+      "question": "What is IoC?",
+      "answer": "IoC (Inversion of Control) is a principle where the control of object creation and management is transferred to a container."
+    },
+    {
+      "question": "What is Bean?",
+      "answer": "Bean is a Java object managed by the Spring container that is instantiated, assembled, and managed by the Spring framework."
+    },
+    {
+      "question": "What is Configuration Class?",
+      "answer": "Configuration Class is a Java class annotated with @Configuration that defines Spring beans and configurations."
+    },
+    {
+      "question": "What is Service Layer?",
+      "answer": "Service Layer is a logical layer in the application that contains business logic and mediates between controllers and data access layers."
+    },
+    {
+      "question": "What is Repository Pattern?",
+      "answer": "Repository Pattern is a data access pattern that abstracts the underlying data source and provides a clean interface for data operations."
+    },
+    {
+      "question": "What is DAO?",
+      "answer": "DAO (Data Access Object) is a design pattern that separates business logic from data access operations."
+    },
+    {
+      "question": "What is Hibernate ORM?",
+      "answer": "Hibernate is an ORM framework that simplifies database operations by mapping Java objects to database tables automatically."
+    },
+    {
+      "question": "What is Transaction?",
+      "answer": "Transaction is a sequence of database operations that either all succeed or all fail, ensuring data consistency."
+    },
+    {
+      "question": "What is ACID Properties?",
+      "answer": "ACID (Atomicity, Consistency, Isolation, Durability) are properties that ensure reliable database transactions."
+    }
+  ]
+}

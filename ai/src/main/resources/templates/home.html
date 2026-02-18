@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>AI</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <div>
+        <div>
+            <h3>AI Question & Answer</h3>
+
+            <div th:if="${errorMessage}"
+                 th:text="${errorMessage}">
+            </div>
+
+            <form th:action="@{/api/ask}"
+                  th:object="${questionRequest}"
+                  method="post">
+
+                <div>
+
+                    <textarea class="form-control"
+                              rows="4"
+                              th:field="*{question}"
+                              placeholder="Enter your question here...">
+                    </textarea>
+
+                    <div th:if="${#fields.hasErrors('question')}"
+                         th:errors="*{question}">
+                    </div>
+                </div>
+
+                <button type="submit">
+                    Ask AI
+                </button>
+            </form>
+
+            <div th:if="${answerResponse != null}">
+                <hr>
+
+                <h5>Question:</h5>
+                <p th:text="${answerResponse.question}"></p>
+
+                <h5>AI Answer:</h5>
+                <p th:text="${answerResponse.answer}"></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
